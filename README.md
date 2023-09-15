@@ -25,6 +25,8 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE9782.
 
 All of the source codes are written and expected to be executed in linux environment.
 
+Also, simulation datasets used in CTIVA articles to generate the AUC, Sensitivity, Specificity values are uploaded in simulation dataset used in paper repository. 
+
 Reference 
 
 1. Mulligan G, Mitsiades C, Bryant B, Zhan F, Chng WJ, Roels S, et al. Gene expression profiling and correlation with outcome in clinical trials of the proteasome inhibitor bortezomib. Blood. 2007;109(8):3177-88.
